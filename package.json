@@ -1,0 +1,17 @@
+{
+  "name": "loadb",
+  "version": "1.0.0",
+  "description": "test your server to carry loads and still be active.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "load",
+    "balancing",
+    "testing",
+    "efficiency"
+  ],
+  "author": "teamc",
+  "license": "ISC"
+}
