@@ -1,6 +1,6 @@
 {
   "name": "loadb",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "test your server to carry loads and still be active.",
   "main": "index.js",
   "scripts": {
