@@ -1,6 +1,3 @@
-const validator =  require('validator');
-const chalk = require('chalk');
-const yergs = require('yargs');
 const { tests } = require('./test');
 
 
