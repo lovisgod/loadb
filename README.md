@@ -1,7 +1,7 @@
 # loadb
-Loadb is a tool that helps to automates with the process if testing your application for loads.
+Loadb is a tool that helps to automates with the process of testing your application for loads.
 
-Load balancing refers to efficiently distributing incoming network traffic across a group of backend servers, also known as a server farm or server pool.
+Load balancing refers to efficiently distributing incoming network traffic across a group of backend servers, also known as a server farm or server pool. **(But we are not performing Load balancing here but load testing)**
 
 Modern high‑traffic websites must serve hundreds of thousands, if not millions, of concurrent requests from users or clients and return the correct text, images, video, or application data, all in a fast and reliable manner. 
 
@@ -10,7 +10,7 @@ For your application to stand the test of time it is of importance for the appli
 This simple tool is basically for testing your nodejs apps while developing to help reduce the stress of testing for load and also reducing the curve of leaning about load testing tools. 
 
 ## Features
-- Load balance testing
+- Load testing
 - Get detailed test report
 - Print report our in CSV format
 - Get your report in GNUPLOT file 
